@@ -15,7 +15,9 @@ for(let num of numbers){
     console.log(num);
 }
 
+// Stores multiple values with a single data type 
 let num = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 let friends = ['abul', 'kabul', 'bulbul', 'bulbul'];
 let passed = [true, false, true, false];
 let mixedArray = [12, 'Abul', true, 5.667];
+// console.log(mixedArray[1]);
